@@ -1,3 +1,4 @@
 # hello-world
-Repository of a project\n
+Repository of a project
+
 Trying to learn Git.
